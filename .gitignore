@@ -1,0 +1,20 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+*.xcodeproj
+*.xcworkspace
+
+# Xcode
+xcuserdata/
+DerivedData/
+
+# Build artifacts
+.DS_Store
+
+
+
+
+# Consumer mode: Resources/ can be ignored (using remote bundle)
+Resources/
+
