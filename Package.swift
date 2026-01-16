@@ -36,8 +36,8 @@ let package = Package(
 
         .binaryTarget(
             name: "subtree",
-            url: "https://github.com/21-DOT-DEV/subtree/releases/download/0.0.6/subtree.artifactbundle.zip",
-            checksum: "e506aef401db24d689ec4cd9d6c1fc8e39dceb34d50ace7b2ca7949d1c61032e"
+            url: "https://github.com/21-DOT-DEV/subtree/releases/download/0.0.7/subtree.artifactbundle.zip",
+            checksum: "42b47763df33480869764742fdf4716fb8c0686e12b58ae775fd8c17ea298cfe"
         ),
 
 
